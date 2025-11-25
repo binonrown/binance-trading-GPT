@@ -1,0 +1,8 @@
+streamlit
+ccxt
+plotly
+pandas
+numpy
+tensorflow
+pyarrow
+backtrader
